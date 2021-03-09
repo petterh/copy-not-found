@@ -17,3 +17,5 @@ But, as mentioned, it compiles and runs. Just fine, as it were.
 The errors aren't always there; they come and go. Editing the XAML will often serve to provoke this (or, as sometimes happens, the opposite).
 
 So: I assume this is a bug in Visual Studio? Has anyone else seen this, and if so, do you have a workaround? While this is not a showstopper, it sure is annoying...
+
+[Here is my question on Stack Overflow](https://stackoverflow.com/questions/66549932/applicationcommands-copy-not-found-error-in-visual-studio-xaml-designer).
